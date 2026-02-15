@@ -1,0 +1,16 @@
+Notes I have on NHL roster reports
+
+- I believe the NHL started having a roster report for every game starting in 2000-2001 (unverified)
+
+- They were not digitized until 2006-2007
+
+- They are all in the same format from 2007-2008 to present day
+    - ex: https://www.nhl.com/scores/htmlreports/20252026/RO020882.HTM
+    - the NHL website game centers only have a link to the roster report from 2010-2011 to present day
+
+- 2006-2007 reports looked different (and presumably back to 2000 but unverified)
+    - ex: https://www.nhl.com/scores/htmlreports/20062007/RO020171.HTM
+    - these are harder
+
+- link format: https://www.nhl.com/scores/htmlreports/
+        (SEASON ex:20102011)/(RO for roster)(game type 01:preseason 02:reg season 03:postseason)(#### game number).HTM
