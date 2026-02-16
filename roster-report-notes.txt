@@ -14,3 +14,12 @@ Notes I have on NHL roster reports
 
 - link format: https://www.nhl.com/scores/htmlreports/
         (SEASON ex:20102011)/(RO for roster)(game type 01:preseason 02:reg season 03:postseason)(#### game number).HTM
+
+    - FOR 03 POSTSEASON:
+        4 digit game #: 
+        1st 2 digits: round #, 01 for 1st round, 02 for 2nd round, 03 for conf finals, 04 for cup finals
+        3rd digit: series #, 1-8 for round 1, 1-4 for round 2, 1-2 for conf finals, onlt 1 for cup finals.
+        4th digit: game # of the series (4-7)
+
+    - FOR 01 preseason:
+        a lot of random games give a 404 error

@@ -14,3 +14,6 @@ Through this project, I hope to get this info for every team going back to 2007-
 
 ## TOOLS
 
+BeautifulSoup4 - parse data from HTML reports
+
+Pandas - store and process data
