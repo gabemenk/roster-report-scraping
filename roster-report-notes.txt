@@ -21,7 +21,7 @@ Notes I have on NHL roster reports
         3rd digit: series #, 1-8 for round 1, 1-4 for round 2, 1-2 for conf finals, onlt 1 for cup finals.
         4th digit: game # of the series (1 up to 4 through 7)
 
-        * 00 for 2020 stanley cup qualifiers. Also those series were bo5 so 4th digit range ends at 3-5
+        * 00 for 2020 stanley cup qualifiers
 
     - FOR 01 preseason:
         a lot of random games give a 404 error
